@@ -155,7 +155,7 @@ function renderBoard() {
             "mine"
           );
           cell.textContent =
-            "????";
+            "💣";
         } else if (
           board[i][j].count >
           0
